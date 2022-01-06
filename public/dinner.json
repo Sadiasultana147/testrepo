@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Healthy Meal Plan",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 2,
+      "name": " Breakfast sandwich",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 3,
+      "name": "Baked Chicken",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    },
+
+    {
+      "id": 4,
+      "name": "Eggs Benedict",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 5,
+      "name": "Toast Croissant Fried egg",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 6,
+      "name": "Full Breakfast Fried Egg Toast Brunch",
+      "Category" : "dinner",
+      "description": "How we dream our future"
+    }
+
+    
+  ]

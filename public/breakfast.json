@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Bagel and cream cheese",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 2,
+      "name": " Breakfast sandwich",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 3,
+      "name": "Baked Chicken",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    },
+
+    {
+      "id": 4,
+      "name": "Eggs Benedict",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 5,
+      "name": "Toast Croissant Fried egg",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    },
+    {
+      "id": 6,
+      "name": "Full Breakfast Fried Egg Toast Brunch",
+      "Category" : "breakfast",
+      "description": "How we dream our future"
+    }
+
+    
+  ]
